@@ -42,3 +42,6 @@ h4{
     text-align: center;
     color: brown;
 }
+div.container-fluid{
+    padding: 20px;
+}
